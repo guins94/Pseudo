@@ -1,0 +1,15 @@
+Como definido na 1ª reunião:
+
+	1- Módulo de Arquivo + leitura 
+	2- Módulo de Memória
+	3- Saída da Gerência de Arquivo
+
+	4- Módulo de Processos + leitura
+	5- Módulo da Fila (sem thread) + main (execução)
+	6- Saída do Gerência de Processos
+
+	7- Recursos (impresora, scaner...)
+	8- Threads
+
+	9- Relatório
+	
